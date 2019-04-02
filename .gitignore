@@ -1,0 +1,9 @@
+# ignore .class files
+*.class
+
+*.iml
+
+algs4-data/
+
+out/
+.idea/
